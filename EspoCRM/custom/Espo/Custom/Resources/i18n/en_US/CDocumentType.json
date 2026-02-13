@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "department": "Department"
+    },
+    "labels": {
+        "Create CDocumentType": "Create Document Type"
+    }
+}

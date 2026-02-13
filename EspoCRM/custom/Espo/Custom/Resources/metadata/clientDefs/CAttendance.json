@@ -1,0 +1,37 @@
+{
+    "controller": "controllers/record",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+    "views": {
+        "list": "custom:views/cattendance/list"
+    },
+    "recordViews": {
+        "list": "custom:views/cattendance/record/list"
+    },
+    "menu": {
+        "list": {
+            "buttons": [
+                {
+                    "label": "Clock In",
+                    "name": "clockIn",
+                    "action": "clockIn",
+                    "style": "success",
+                    "acl": "create",
+                    "aclScope": "CAttendance"
+                    
+                },
+                {
+                    "label": "Clock Out",
+                    "name": "clockOut",
+                    "action": "clockOut",
+                    "style": "danger",
+                    "acl": "edit",
+                    "aclScope": "CAttendance"
+                }
+            ]
+        }
+    },
+    "defaultOrder": "date",
+    "defaultOrderDirection": "desc"
+}

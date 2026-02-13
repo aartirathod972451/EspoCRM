@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "states": "States",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "links": {
+        "states": "States",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "labels": {
+        "Create CCountry": "Create Country"
+    }
+}

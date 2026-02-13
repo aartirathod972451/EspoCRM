@@ -1,0 +1,808 @@
+[2026-02-09 06:34:56] WARNING: E_WARNING: rename(data\tmp\tmpAE35.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 07:00:01] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:00:11] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:01:50] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:04:41] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:07:43] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:08:27] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:08:58] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:11:20] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:11:29] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:13:25] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:15:57] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:24:31] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:24:33] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:26:07] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:29:36] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 07:30:32] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 08:34:26] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 08:44:47] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 08:47:57] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 08:49:01] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 09:22:04] WARNING: E_WARNING: rename(data\tmp\tmp13EA.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 09:22:11] WARNING: E_WARNING: rename(data\tmp\tmp2FDA.tmp,data/cache/application/classmapControllers.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3D.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3C.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3B.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3C.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3D.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:22:35] WARNING: E_WARNING: rename(data\tmp\tmp8E3B.tmp,data/cache/application/languages/en_US.php): Access is denied (code: 5)
+[2026-02-09 09:23:36] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 09:29:00] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 09:43:47] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:43:47] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:44:05] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:44:05] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:44:07] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:44:07] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:47:20] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:47:20] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 09:53:32] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 09:54:43] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 09:54:51] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 10:00:28] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:00:28] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:00:43] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:00:43] WARNING: (403) No access to scope CBanks. :: GET /CBanks/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:05:45] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 10:05:48] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 10:05:56] WARNING: (403) No access to scope CContactType. :: GET /CContactType/layout/listSmall :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:05:56] WARNING: (403) No access to scope CContactType. :: GET /CContactType/layout/filters :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Tools\Layout\Service.php(106)
+[2026-02-09 10:24:16] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 10:47:41] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 10:49:31] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 11:02:11] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 11:06:00] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 11:31:00] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:32:10] CRITICAL: (0) Entity ID is empty. :: PUT /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:32:17] CRITICAL: (0) Entity ID is empty. :: PUT /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:37:58] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeDependents :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeAddresses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeBanks :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeContacts :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeDocumentses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:10] WARNING: (404)  :: GET /CEmployee/undefined/employeePastExperiences :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeeDependents :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeeBanks :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeeContacts :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeeAddresses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeePastExperiences :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:38:44] WARNING: (404)  :: GET /CEmployee/undefined/employeeDocumentses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeAddresses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeContacts :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeDependents :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeBanks :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeeDocumentses :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:39:10] WARNING: (404)  :: GET /CEmployee/undefined/employeePastExperiences :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1025)
+[2026-02-09 11:40:08] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:40:20] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:40:30] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:40:47] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:41:26] CRITICAL: (0) Entity ID is empty. :: GET /CEmployee/69832dc3d0367a623 :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\BaseEntity.php(128)
+[2026-02-09 11:48:32] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[2026-02-09 12:05:32] DEBUG: Schema\Builder - Start
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Rebuild for entity types: [CEmployeeAddress] with dependent entity types: [CEmployeeAddress, CCountry, CEmployeePastExperience, CWorkRole, CEmployee, Attachment, User, EmailAddress, PhoneNumber, TargetList, Lead, Document, DocumentFolder, Team, GroupEmailFolder, Email, Task, Contact, CampaignLogRecord, EmailQueueItem, MassEmail, InboundEmail, EmailFilter, EmailFolder, EmailTemplate, EmailTemplateCategory, Campaign, Template, CampaignTrackingUrl, Opportunity, Call, Account, Meeting, Case, KnowledgeBaseArticle, KnowledgeBaseCategory, Portal, AuthenticationProvider, LayoutSet, LayoutRecord, Note, PortalRole, EmailAccount, WorkingTimeCalendar, WorkingTimeRange, Role, TargetListCategory, UserData, DashboardTemplate, CPanCard, CVoterIdCard, CDrivingLicense, CADHAR, CDepartment, CEmployeeDocuments, CEmployeeContact, CContactType, CEmployeeBank, CBanks, CEmployeeDependent, CDependantRelation, CCity, CState]
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Attachment
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity AuthenticationProvider
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity DashboardTemplate
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Email
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailAccount
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailAddress
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailFilter
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailFolder
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailTemplate
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailTemplateCategory
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity GroupEmailFolder
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity InboundEmail
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity LayoutRecord
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity LayoutSet
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Note
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity PhoneNumber
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Portal
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity PortalRole
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Role
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Team
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Template
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity User
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity UserData
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity WorkingTimeCalendar
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity WorkingTimeRange
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Account
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Call
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Campaign
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CampaignLogRecord
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CampaignTrackingUrl
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Case
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Contact
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Document
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity DocumentFolder
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity EmailQueueItem
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity KnowledgeBaseArticle
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity KnowledgeBaseCategory
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Lead
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity MassEmail
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Meeting
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Opportunity
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity TargetList
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity TargetListCategory
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity Task
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CADHAR
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CBanks
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CCity
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CContactType
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CCountry
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CDepartment
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CDependantRelation
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CDrivingLicense
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployee
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeeAddress
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeeBank
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeeContact
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeeDependent
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeeDocuments
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CEmployeePastExperience
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CPanCard
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CState
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CVoterIdCard
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Entity CWorkRole
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.emailAccounts
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.inboundEmails
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.replyToEmailAddresses
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.assignedUsers
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Email.teams
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for GroupEmailFolder.teams
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for InboundEmail.teams
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Note.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Note.portals
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Note.teams
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Portal.articles
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Portal.portalRoles
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Portal.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for PortalRole.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Role.teams
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Role.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Team.users
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.emailAddresses
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.phoneNumbers
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.accounts
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.calls
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.meetings
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for User.workingTimeRanges
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for WorkingTimeCalendar.ranges
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Account.portalUsers
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: Table [account_portal_user] exists.
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Account.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Account.documents
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Account.contacts
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Call.leads
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Call.contacts
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Campaign.excludingTargetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Campaign.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Case.articles
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Case.contacts
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Contact.documents
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Contact.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Contact.meetings
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Contact.opportunities
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Document.leads
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Document.opportunities
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for KnowledgeBaseArticle.categories
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Lead.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for Lead.meetings
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for MassEmail.excludingTargetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder: ManyMany for MassEmail.targetLists
+[2026-02-09 12:05:33] DEBUG: Schema\Builder - End
+[2026-02-09 12:13:36] DEBUG: API (0) Can't use an entity w/o ID.; POST /CEmployeeAddress; Input data: {"employeeId":"69832dc3d0367a623","employeeName":"User-1","assignedUserId":"698329bda210cd771","assignedUserName":"user-1 Sharma","addressType":null,"address":null,"countryName":"Vatican City","countryId":"6989c22db99989db0","teamsIds":[],"teamsNames":{},"stateName":null,"stateId":null}; Route pattern: /{controller}; Route params: Array
+(
+    [controller] => CEmployeeAddress
+    [action] => create
+)
+[2026-02-09 12:13:36] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[object] (RuntimeException(code: 0): Can't use an entity w/o ID. at D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php:72)
+[stacktrace]
+#0 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRepository.php(216): Espo\ORM\Repository\RDBRelation->__construct(Object(Espo\Core\ORM\EntityManager), Object(Espo\Core\Templates\Entities\Base), 'state', Object(Espo\Core\ORM\Repository\HookMediator))
+#1 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\AttributeFetcher.php(77): Espo\ORM\Repository\RDBRepository->getRelation(Object(Espo\Core\Templates\Entities\Base), 'state')
+#2 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(70): Espo\Core\Formula\AttributeFetcher->fetch(Object(Espo\Core\Templates\Entities\Base), 'state.countryNa...')
+#3 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(60): Espo\Core\Formula\Functions\AttributeType->getAttributeValue('state.countryNa...')
+#4 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(103): Espo\Core\Formula\Functions\AttributeType->process(Object(stdClass))
+#5 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#6 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\ComparisonGroup\Base.php(50): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#7 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\ComparisonGroup\Base->process(Object(Espo\Core\Formula\ArgumentList))
+#8 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#9 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BundleType.php(44): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#10 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\BundleType->process(Object(Espo\Core\Formula\ArgumentList))
+#11 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(122): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#12 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(82): Espo\Core\Formula\Evaluator->processInternal('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass), false)
+#13 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Manager.php(61): Espo\Core\Formula\Evaluator->process('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#14 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(92): Espo\Core\Formula\Manager->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#15 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(67): Espo\Core\Record\Formula\Processor->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#16 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1679): Espo\Core\Record\Formula\Processor->processBeforeCreate(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#17 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(701): Espo\Core\Record\Service->processApiBeforeCreateApiScript(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#18 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Controllers\RecordBase.php(184): Espo\Core\Record\Service->create(Object(stdClass), Object(Espo\Core\Record\CreateParams))
+#19 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionProcessor.php(87): Espo\Core\Controllers\RecordBase->postActionCreate(Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#20 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionHandler.php(65): Espo\Core\Api\ControllerActionProcessor->process('CEmployeeAddres...', 'create', Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#21 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Espo\Core\Api\ControllerActionHandler->handle(Object(Slim\Psr7\Request))
+#22 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(221): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#23 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(148): Espo\Core\Api\RouteProcessor->processControllerAction(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#24 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(126): Espo\Core\Api\RouteProcessor->processAfterAuth(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#25 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(78): Espo\Core\Api\RouteProcessor->processInternal(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#26 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(126): Espo\Core\Api\RouteProcessor->process(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response))
+#27 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php(38): Espo\Core\Api\Starter->Espo\Core\Api\{closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#28 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(363): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#29 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#30 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#31 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(321): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#32 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\RouteRunner.php(74): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#33 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(45): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#34 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#35 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#36 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#37 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#38 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#39 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#40 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#41 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#42 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#43 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#44 D:\xampp\htdocs\EspoCRM-9.2.7\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#45 {main}
+[2026-02-09 12:14:06] DEBUG: Schema\Builder - Start
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity ActionHistoryRecord
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AddressCountry
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AppLogRecord
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AppSecret
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity ArrayValue
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Attachment
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AuthLogRecord
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AuthToken
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity AuthenticationProvider
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Autofollow
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Currency
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity DashboardTemplate
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Email
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailAccount
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailAddress
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailFilter
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailFolder
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailTemplate
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity EmailTemplateCategory
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Export
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Extension
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity ExternalAccount
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity GroupEmailFolder
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Import
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity ImportEntity
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity ImportError
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity InboundEmail
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Integration
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Job
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity KanbanOrder
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity LayoutRecord
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity LayoutSet
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity LeadCapture
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity LeadCaptureLogRecord
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity MassAction
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity NextNumber
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Note
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Notification
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity OAuthAccount
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity OAuthProvider
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity PasswordChangeRequest
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity PhoneNumber
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity Portal
+[2026-02-09 12:14:06] DEBUG: Schema\Builder: Entity PortalRole
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Preferences
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Role
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity ScheduledJob
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity ScheduledJobLogRecord
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Sms
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity StarSubscription
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity StreamSubscription
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity SystemData
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Team
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Template
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity TwoFactorCode
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity UniqueId
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity User
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity UserData
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity UserReaction
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Webhook
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity WebhookEventQueueItem
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity WebhookQueueItem
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity WorkingTimeCalendar
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity WorkingTimeRange
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Account
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Call
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Campaign
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CampaignLogRecord
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CampaignTrackingUrl
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Case
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Contact
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Document
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity DocumentFolder
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity EmailQueueItem
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity KnowledgeBaseArticle
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity KnowledgeBaseCategory
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Lead
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity MassEmail
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Meeting
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Opportunity
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Reminder
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Target
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity TargetList
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity TargetListCategory
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity Task
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CADHAR
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CBanks
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CCity
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CContactType
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CCountry
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CDepartment
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CDependantRelation
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CDocumentType
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CDrivingLicense
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployee
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeeAddress
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeeBank
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeeContact
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeeDependent
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeeDocuments
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CEmployeePastExperience
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CPanCard
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CPassport
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CState
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CVoterIdCard
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity CWorkRole
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity EmailTemplateCategoryPath
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity DocumentFolderPath
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity KnowledgeBaseCategoryPath
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Entity TargetListCategoryPath
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.emailAccounts
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.inboundEmails
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.replyToEmailAddresses
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.assignedUsers
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Email.teams
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for GroupEmailFolder.teams
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for InboundEmail.teams
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Note.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Note.portals
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Note.teams
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Portal.articles
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Portal.portalRoles
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Portal.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for PortalRole.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Role.teams
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Role.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Sms.toPhoneNumbers
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Team.users
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.emailAddresses
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.phoneNumbers
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.accounts
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.calls
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.meetings
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for User.workingTimeRanges
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for WorkingTimeCalendar.ranges
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Account.portalUsers
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: Table [account_portal_user] exists.
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Account.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Account.documents
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Account.contacts
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Call.leads
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Call.contacts
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Campaign.excludingTargetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Campaign.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Case.articles
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Case.contacts
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Contact.documents
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Contact.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Contact.meetings
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Contact.opportunities
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Document.leads
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Document.opportunities
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for KnowledgeBaseArticle.categories
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Lead.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for Lead.meetings
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for MassEmail.excludingTargetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder: ManyMany for MassEmail.targetLists
+[2026-02-09 12:14:07] DEBUG: Schema\Builder - End
+[2026-02-09 12:17:41] DEBUG: API (0) Can't use an entity w/o ID.; POST /CEmployeeAddress; Input data: {"employeeId":"69832dc3d0367a623","employeeName":"User-1","assignedUserId":"698329bda210cd771","assignedUserName":"user-1 Sharma","addressType":null,"address":null,"countryName":"United Kingdom","countryId":"6989c22db1880695d","teamsIds":[],"teamsNames":{},"stateName":"Sindh","stateId":"6984574fe4c7c32c7","cityName":"Lahore","cityId":"698459710f20f3147"}; Route pattern: /{controller}; Route params: Array
+(
+    [controller] => CEmployeeAddress
+    [action] => create
+)
+[2026-02-09 12:17:41] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[object] (RuntimeException(code: 0): Can't use an entity w/o ID. at D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php:72)
+[stacktrace]
+#0 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRepository.php(216): Espo\ORM\Repository\RDBRelation->__construct(Object(Espo\Core\ORM\EntityManager), Object(Espo\Core\Templates\Entities\Base), 'state', Object(Espo\Core\ORM\Repository\HookMediator))
+#1 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\AttributeFetcher.php(77): Espo\ORM\Repository\RDBRepository->getRelation(Object(Espo\Core\Templates\Entities\Base), 'state')
+#2 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(70): Espo\Core\Formula\AttributeFetcher->fetch(Object(Espo\Core\Templates\Entities\Base), 'state.countryNa...')
+#3 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(60): Espo\Core\Formula\Functions\AttributeType->getAttributeValue('state.countryNa...')
+#4 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(103): Espo\Core\Formula\Functions\AttributeType->process(Object(stdClass))
+#5 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#6 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\ComparisonGroup\Base.php(50): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#7 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\ComparisonGroup\Base->process(Object(Espo\Core\Formula\ArgumentList))
+#8 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#9 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BundleType.php(44): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#10 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\BundleType->process(Object(Espo\Core\Formula\ArgumentList))
+#11 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(122): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#12 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(82): Espo\Core\Formula\Evaluator->processInternal('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass), false)
+#13 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Manager.php(61): Espo\Core\Formula\Evaluator->process('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#14 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(92): Espo\Core\Formula\Manager->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#15 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(67): Espo\Core\Record\Formula\Processor->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#16 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1679): Espo\Core\Record\Formula\Processor->processBeforeCreate(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#17 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(701): Espo\Core\Record\Service->processApiBeforeCreateApiScript(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#18 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Controllers\RecordBase.php(184): Espo\Core\Record\Service->create(Object(stdClass), Object(Espo\Core\Record\CreateParams))
+#19 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionProcessor.php(87): Espo\Core\Controllers\RecordBase->postActionCreate(Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#20 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionHandler.php(65): Espo\Core\Api\ControllerActionProcessor->process('CEmployeeAddres...', 'create', Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#21 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Espo\Core\Api\ControllerActionHandler->handle(Object(Slim\Psr7\Request))
+#22 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(221): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#23 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(148): Espo\Core\Api\RouteProcessor->processControllerAction(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#24 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(126): Espo\Core\Api\RouteProcessor->processAfterAuth(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#25 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(78): Espo\Core\Api\RouteProcessor->processInternal(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#26 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(126): Espo\Core\Api\RouteProcessor->process(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response))
+#27 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php(38): Espo\Core\Api\Starter->Espo\Core\Api\{closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#28 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(363): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#29 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#30 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#31 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(321): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#32 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\RouteRunner.php(74): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#33 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(45): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#34 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#35 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#36 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#37 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#38 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#39 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#40 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#41 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#42 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#43 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#44 D:\xampp\htdocs\EspoCRM-9.2.7\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#45 {main}
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DC.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DC.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DD.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DD.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DC.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp35DD.tmp,data/cache/application/objMetadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp36EA.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp36EA.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp371A.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp371A.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp371B.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp371B.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:56] WARNING: E_WARNING: rename(data\tmp\tmp36EA.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp371B.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp371A.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp36EA.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp371B.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp371A.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:28:57] WARNING: E_WARNING: rename(data\tmp\tmp371B.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-09 12:29:12] DEBUG: Schema\Builder - Start
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ActionHistoryRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AddressCountry
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AppLogRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AppSecret
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ArrayValue
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Attachment
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AuthLogRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AuthToken
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity AuthenticationProvider
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Autofollow
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Currency
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity DashboardTemplate
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Email
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailAccount
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailAddress
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailFilter
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailFolder
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailTemplate
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailTemplateCategory
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Export
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Extension
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ExternalAccount
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity GroupEmailFolder
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Import
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ImportEntity
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ImportError
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity InboundEmail
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Integration
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Job
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity KanbanOrder
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity LayoutRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity LayoutSet
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity LeadCapture
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity LeadCaptureLogRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity MassAction
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity NextNumber
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Note
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Notification
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity OAuthAccount
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity OAuthProvider
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity PasswordChangeRequest
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity PhoneNumber
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Portal
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity PortalRole
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Preferences
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Role
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ScheduledJob
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity ScheduledJobLogRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Sms
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity StarSubscription
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity StreamSubscription
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity SystemData
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Team
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Template
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity TwoFactorCode
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity UniqueId
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity User
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity UserData
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity UserReaction
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Webhook
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity WebhookEventQueueItem
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity WebhookQueueItem
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity WorkingTimeCalendar
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity WorkingTimeRange
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Account
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Call
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Campaign
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CampaignLogRecord
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CampaignTrackingUrl
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Case
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Contact
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Document
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity DocumentFolder
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailQueueItem
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity KnowledgeBaseArticle
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity KnowledgeBaseCategory
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Lead
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity MassEmail
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Meeting
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Opportunity
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Reminder
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Target
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity TargetList
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity TargetListCategory
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity Task
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CADHAR
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CBanks
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CCity
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CContactType
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CCountry
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CDepartment
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CDependantRelation
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CDocumentType
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CDrivingLicense
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployee
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeeAddress
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeeBank
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeeContact
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeeDependent
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeeDocuments
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CEmployeePastExperience
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CPanCard
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CPassport
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CState
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CVoterIdCard
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity CWorkRole
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity EmailTemplateCategoryPath
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity DocumentFolderPath
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity KnowledgeBaseCategoryPath
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Entity TargetListCategoryPath
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.emailAccounts
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.inboundEmails
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.replyToEmailAddresses
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.assignedUsers
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Email.teams
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for GroupEmailFolder.teams
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for InboundEmail.teams
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Note.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Note.portals
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Note.teams
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Portal.articles
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Portal.portalRoles
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Portal.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for PortalRole.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Role.teams
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Role.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Sms.toPhoneNumbers
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Team.users
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.emailAddresses
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.phoneNumbers
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.accounts
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.calls
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.meetings
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for User.workingTimeRanges
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for WorkingTimeCalendar.ranges
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Account.portalUsers
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: Table [account_portal_user] exists.
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Account.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Account.documents
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Account.contacts
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Call.leads
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Call.contacts
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Campaign.excludingTargetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Campaign.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Case.articles
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Case.contacts
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Contact.documents
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Contact.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Contact.meetings
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Contact.opportunities
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Document.leads
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Document.opportunities
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for KnowledgeBaseArticle.categories
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Lead.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for Lead.meetings
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for MassEmail.excludingTargetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder: ManyMany for MassEmail.targetLists
+[2026-02-09 12:29:12] DEBUG: Schema\Builder - End
+[2026-02-09 12:30:37] DEBUG: API (0) Can't use an entity w/o ID.; POST /CEmployeeAddress; Input data: {"employeeId":"69832dc3d0367a623","employeeName":"User-1","assignedUserId":"698329bda210cd771","assignedUserName":"user-1 Sharma","addressType":"Permanent Address","address":"123 , Naroda","countryName":"India","countryId":"6989c22bac90a6877","teamsIds":[],"teamsNames":{},"stateName":"Karnataka","stateId":"6989d2557536fcc34","cityName":"Bangalore","cityId":"6989d2794daca1717"}; Route pattern: /{controller}; Route params: Array
+(
+    [controller] => CEmployeeAddress
+    [action] => create
+)
+[2026-02-09 12:30:37] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[object] (RuntimeException(code: 0): Can't use an entity w/o ID. at D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php:72)
+[stacktrace]
+#0 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRepository.php(216): Espo\ORM\Repository\RDBRelation->__construct(Object(Espo\Core\ORM\EntityManager), Object(Espo\Core\Templates\Entities\Base), 'state', Object(Espo\Core\ORM\Repository\HookMediator))
+#1 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\AttributeFetcher.php(77): Espo\ORM\Repository\RDBRepository->getRelation(Object(Espo\Core\Templates\Entities\Base), 'state')
+#2 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(70): Espo\Core\Formula\AttributeFetcher->fetch(Object(Espo\Core\Templates\Entities\Base), 'state.countryNa...')
+#3 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(60): Espo\Core\Formula\Functions\AttributeType->getAttributeValue('state.countryNa...')
+#4 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(103): Espo\Core\Formula\Functions\AttributeType->process(Object(stdClass))
+#5 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#6 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\ComparisonGroup\Base.php(50): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#7 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\ComparisonGroup\Base->process(Object(Espo\Core\Formula\ArgumentList))
+#8 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#9 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BundleType.php(44): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#10 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\BundleType->process(Object(Espo\Core\Formula\ArgumentList))
+#11 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(122): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#12 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(82): Espo\Core\Formula\Evaluator->processInternal('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass), false)
+#13 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Manager.php(61): Espo\Core\Formula\Evaluator->process('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#14 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(92): Espo\Core\Formula\Manager->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#15 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(67): Espo\Core\Record\Formula\Processor->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#16 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1679): Espo\Core\Record\Formula\Processor->processBeforeCreate(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#17 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(701): Espo\Core\Record\Service->processApiBeforeCreateApiScript(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#18 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Controllers\RecordBase.php(184): Espo\Core\Record\Service->create(Object(stdClass), Object(Espo\Core\Record\CreateParams))
+#19 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionProcessor.php(87): Espo\Core\Controllers\RecordBase->postActionCreate(Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#20 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionHandler.php(65): Espo\Core\Api\ControllerActionProcessor->process('CEmployeeAddres...', 'create', Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#21 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Espo\Core\Api\ControllerActionHandler->handle(Object(Slim\Psr7\Request))
+#22 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(221): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#23 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(148): Espo\Core\Api\RouteProcessor->processControllerAction(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#24 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(126): Espo\Core\Api\RouteProcessor->processAfterAuth(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#25 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(78): Espo\Core\Api\RouteProcessor->processInternal(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#26 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(126): Espo\Core\Api\RouteProcessor->process(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response))
+#27 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php(38): Espo\Core\Api\Starter->Espo\Core\Api\{closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#28 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(363): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#29 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#30 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#31 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(321): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#32 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\RouteRunner.php(74): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#33 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(45): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#34 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#35 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#36 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#37 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#38 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#39 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#40 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#41 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#42 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#43 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#44 D:\xampp\htdocs\EspoCRM-9.2.7\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#45 {main}
+[2026-02-09 12:35:46] DEBUG: API (0) Can't use an entity w/o ID.; POST /CEmployeeAddress; Input data: {"employeeId":"69832dc3d0367a623","employeeName":"User-1","assignedUserId":"698329bda210cd771","assignedUserName":"user-1 Sharma","addressType":null,"address":null,"countryName":"Vatican City","countryId":"6989c22db99989db0","teamsIds":[],"teamsNames":{},"stateName":null,"stateId":null}; Route pattern: /{controller}; Route params: Array
+(
+    [controller] => CEmployeeAddress
+    [action] => create
+)
+[2026-02-09 12:35:46] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[object] (RuntimeException(code: 0): Can't use an entity w/o ID. at D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php:72)
+[stacktrace]
+#0 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRepository.php(216): Espo\ORM\Repository\RDBRelation->__construct(Object(Espo\Core\ORM\EntityManager), Object(Espo\Core\Templates\Entities\Base), 'state', Object(Espo\Core\ORM\Repository\HookMediator))
+#1 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\AttributeFetcher.php(77): Espo\ORM\Repository\RDBRepository->getRelation(Object(Espo\Core\Templates\Entities\Base), 'state')
+#2 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(70): Espo\Core\Formula\AttributeFetcher->fetch(Object(Espo\Core\Templates\Entities\Base), 'state.countryNa...')
+#3 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(60): Espo\Core\Formula\Functions\AttributeType->getAttributeValue('state.countryNa...')
+#4 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(103): Espo\Core\Formula\Functions\AttributeType->process(Object(stdClass))
+#5 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#6 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\ComparisonGroup\Base.php(50): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#7 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\ComparisonGroup\Base->process(Object(Espo\Core\Formula\ArgumentList))
+#8 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#9 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BundleType.php(44): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#10 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\BundleType->process(Object(Espo\Core\Formula\ArgumentList))
+#11 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(122): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#12 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(82): Espo\Core\Formula\Evaluator->processInternal('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass), false)
+#13 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Manager.php(61): Espo\Core\Formula\Evaluator->process('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#14 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(92): Espo\Core\Formula\Manager->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#15 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(67): Espo\Core\Record\Formula\Processor->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#16 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1679): Espo\Core\Record\Formula\Processor->processBeforeCreate(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#17 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(701): Espo\Core\Record\Service->processApiBeforeCreateApiScript(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#18 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Controllers\RecordBase.php(184): Espo\Core\Record\Service->create(Object(stdClass), Object(Espo\Core\Record\CreateParams))
+#19 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionProcessor.php(87): Espo\Core\Controllers\RecordBase->postActionCreate(Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#20 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionHandler.php(65): Espo\Core\Api\ControllerActionProcessor->process('CEmployeeAddres...', 'create', Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#21 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Espo\Core\Api\ControllerActionHandler->handle(Object(Slim\Psr7\Request))
+#22 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(221): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#23 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(148): Espo\Core\Api\RouteProcessor->processControllerAction(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#24 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(126): Espo\Core\Api\RouteProcessor->processAfterAuth(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#25 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(78): Espo\Core\Api\RouteProcessor->processInternal(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#26 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(126): Espo\Core\Api\RouteProcessor->process(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response))
+#27 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php(38): Espo\Core\Api\Starter->Espo\Core\Api\{closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#28 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(363): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#29 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#30 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#31 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(321): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#32 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\RouteRunner.php(74): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#33 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(45): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#34 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#35 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#36 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#37 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#38 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#39 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#40 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#41 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#42 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#43 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#44 D:\xampp\htdocs\EspoCRM-9.2.7\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#45 {main}
+[2026-02-09 12:59:03] DEBUG: API (0) Can't use an entity w/o ID.; POST /CEmployeeAddress; Input data: {"employeeId":"69832dc3d0367a623","employeeName":"User-1","assignedUserId":"698329bda210cd771","assignedUserName":"user-1 Sharma","addressType":"Permanent Address","address":null,"countryName":"United Kingdom","countryId":"6989c22db1880695d","teamsIds":[],"teamsNames":{},"stateName":"Scotland","stateId":"6989d255ba0b46a02","cityName":"Edinburgh","cityId":"6989d279a1176c566"}; Route pattern: /{controller}; Route params: Array
+(
+    [controller] => CEmployeeAddress
+    [action] => create
+)
+[2026-02-09 12:59:03] CRITICAL: (0) Can't use an entity w/o ID. :: POST /CEmployeeAddress :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php(72)
+[object] (RuntimeException(code: 0): Can't use an entity w/o ID. at D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRelation.php:72)
+[stacktrace]
+#0 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\Repository\RDBRepository.php(216): Espo\ORM\Repository\RDBRelation->__construct(Object(Espo\Core\ORM\EntityManager), Object(Espo\Core\Templates\Entities\Base), 'state', Object(Espo\Core\ORM\Repository\HookMediator))
+#1 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\AttributeFetcher.php(77): Espo\ORM\Repository\RDBRepository->getRelation(Object(Espo\Core\Templates\Entities\Base), 'state')
+#2 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(70): Espo\Core\Formula\AttributeFetcher->fetch(Object(Espo\Core\Templates\Entities\Base), 'state.countryNa...')
+#3 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\AttributeType.php(60): Espo\Core\Formula\Functions\AttributeType->getAttributeValue('state.countryNa...')
+#4 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(103): Espo\Core\Formula\Functions\AttributeType->process(Object(stdClass))
+#5 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#6 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\ComparisonGroup\Base.php(50): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#7 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\ComparisonGroup\Base->process(Object(Espo\Core\Formula\ArgumentList))
+#8 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BaseFunction.php(97): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#9 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Functions\BundleType.php(44): Espo\Core\Formula\Functions\BaseFunction->evaluate(Object(Espo\Core\Formula\Argument))
+#10 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Processor.php(107): Espo\Core\Formula\Functions\BundleType->process(Object(Espo\Core\Formula\ArgumentList))
+#11 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(122): Espo\Core\Formula\Processor->process(Object(Espo\Core\Formula\Argument))
+#12 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Evaluator.php(82): Espo\Core\Formula\Evaluator->processInternal('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass), false)
+#13 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Formula\Manager.php(61): Espo\Core\Formula\Evaluator->process('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#14 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(92): Espo\Core\Formula\Manager->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#15 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Formula\Processor.php(67): Espo\Core\Record\Formula\Processor->run('state.countryNa...', Object(Espo\Core\Templates\Entities\Base), Object(stdClass))
+#16 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(1679): Espo\Core\Record\Formula\Processor->processBeforeCreate(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#17 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Record\Service.php(701): Espo\Core\Record\Service->processApiBeforeCreateApiScript(Object(Espo\Core\Templates\Entities\Base), Object(Espo\Core\Record\CreateParams))
+#18 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Controllers\RecordBase.php(184): Espo\Core\Record\Service->create(Object(stdClass), Object(Espo\Core\Record\CreateParams))
+#19 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionProcessor.php(87): Espo\Core\Controllers\RecordBase->postActionCreate(Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#20 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\ControllerActionHandler.php(65): Espo\Core\Api\ControllerActionProcessor->process('CEmployeeAddres...', 'create', Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#21 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Espo\Core\Api\ControllerActionHandler->handle(Object(Slim\Psr7\Request))
+#22 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(221): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#23 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(148): Espo\Core\Api\RouteProcessor->processControllerAction(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#24 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(126): Espo\Core\Api\RouteProcessor->processAfterAuth(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\ResponseWrapper))
+#25 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\RouteProcessor.php(78): Espo\Core\Api\RouteProcessor->processInternal(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Espo\Core\Api\RequestWrapper), Object(Espo\Core\Api\ResponseWrapper))
+#26 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(126): Espo\Core\Api\RouteProcessor->process(Object(Espo\Core\Api\ProcessData), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response))
+#27 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php(38): Espo\Core\Api\Starter->Espo\Core\Api\{closure}(Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#28 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(363): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Psr7\Request), Object(Slim\Psr7\Response), Array)
+#29 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\Routing\Route->handle(Object(Slim\Psr7\Request))
+#30 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#31 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\Route.php(321): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#32 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Routing\RouteRunner.php(74): Slim\Routing\Route->run(Object(Slim\Psr7\Request))
+#33 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(45): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#34 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#35 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#36 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#37 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#38 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#39 D:\xampp\htdocs\EspoCRM-9.2.7\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#40 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#41 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#42 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#43 D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#44 D:\xampp\htdocs\EspoCRM-9.2.7\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#45 {main}

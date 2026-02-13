@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "employee": "Employee",
+        "dependantRelation": "Dependant Relation",
+        "no": "No.",
+        "name": "First Name",
+        "lastName": "Last name",
+        "emergencyContactNumber": "Emergency Contact Number",
+        "birthDate": "Birth Date"
+    },
+    "links": {
+        "employee": "Employee",
+        "dependantRelation": "Dependant Relation"
+    },
+    "labels": {
+        "Create CEmployeeDependent": "Create Employee Dependent"
+    }
+}

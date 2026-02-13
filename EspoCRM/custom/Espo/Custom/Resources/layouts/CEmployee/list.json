@@ -1,0 +1,26 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "profile",
+        "width": 16
+    },
+    {
+        "name": "user",
+        "width": 16
+    },
+    {
+        "name": "city",
+        "width": 16
+    },
+    {
+        "name": "state",
+        "width": 16
+    },
+    {
+        "name": "country",
+        "width": 16
+    }
+]

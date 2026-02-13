@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "nameAsPerPanCard": "Name as per Pan Card",
+        "panCardNumber": "Pan Card Number",
+        "dateOfBirthAsPerPanCard": "Date of birth as per PAN Card",
+        "middleNameAsPerPANCard": "Middle name as per PAN Card",
+        "attachments": "Attachments",
+        "employee": "Employee"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CPanCard": "Create PanCard"
+    }
+}

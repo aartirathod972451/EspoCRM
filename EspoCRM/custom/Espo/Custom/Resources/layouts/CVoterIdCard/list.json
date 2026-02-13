@@ -1,0 +1,22 @@
+[
+    {
+        "name": "voterIDNumber",
+        "width": 16
+    },
+    {
+        "name": "dateOfBirth",
+        "width": 16
+    },
+    {
+        "name": "nameAsPerVoterIDCard",
+        "width": 16
+    },
+    {
+        "name": "fathersNameAsPerVoterIDCard",
+        "width": 16
+    },
+    {
+        "name": "attachments",
+        "width": 16
+    }
+]

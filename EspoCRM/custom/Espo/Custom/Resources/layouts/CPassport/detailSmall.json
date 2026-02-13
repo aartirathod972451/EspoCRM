@@ -1,0 +1,48 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "passportNumber"
+                }
+            ],
+            [
+                {
+                    "name": "nameAsPerPassport"
+                }
+            ],
+            [
+                {
+                    "name": "placeOfBirth"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfBirth"
+                }
+            ],
+            [
+                {
+                    "name": "placeOfIssue"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfIssue"
+                }
+            ],
+            [
+                {
+                    "name": "expiryDate"
+                }
+            ],
+            [
+                {
+                    "name": "attachments"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

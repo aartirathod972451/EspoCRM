@@ -1,0 +1,27 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "userName",
+        "width": 20
+    },
+    {
+        "name": "roles",
+        "width": 16,
+        "notSortable": true
+    },
+    {
+        "name": "title",
+        "width": 18
+    },
+    {
+        "name": "emailAddress",
+        "width": 20
+    },
+    {
+        "name": "isActive",
+        "width": 10
+    }
+]

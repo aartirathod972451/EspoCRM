@@ -1,0 +1,48 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "companyName"
+                }
+            ],
+            [
+                {
+                    "name": "workRole"
+                }
+            ],
+            [
+                {
+                    "name": "startDate"
+                },
+                {
+                    "name": "endDate"
+                }
+            ],
+            [
+                {
+                    "name": "companyAddress"
+                }
+            ],
+            [
+                {
+                    "name": "country"
+                },
+                {
+                    "name": "state"
+                },
+                {
+                    "name": "city"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "dynamicLogicStyled": null,
+        "tabBreak": true,
+        "tabLabel": "Tab 2",
+        "hidden": false,
+        "noteText": null,
+        "customLabel": "Past Experience"
+    }
+]

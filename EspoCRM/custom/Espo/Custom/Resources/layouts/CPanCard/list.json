@@ -1,0 +1,26 @@
+[
+    {
+        "name": "name",
+        "width": 16
+    },
+    {
+        "name": "panCardNumber",
+        "width": 16
+    },
+    {
+        "name": "nameAsPerPanCard",
+        "width": 16
+    },
+    {
+        "name": "dateOfBirthAsPerPanCard",
+        "width": 16
+    },
+    {
+        "name": "middleNameAsPerPANCard",
+        "width": 16
+    },
+    {
+        "name": "attachments",
+        "width": 16
+    }
+]

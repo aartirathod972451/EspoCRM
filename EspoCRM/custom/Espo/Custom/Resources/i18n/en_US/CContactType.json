@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "employeeContact": "Employee Contact"
+    },
+    "labels": {
+        "Create CContactType": "Create Contact Type"
+    },
+    "links": {
+        "employeeContact": "Employee Contact"
+    }
+}

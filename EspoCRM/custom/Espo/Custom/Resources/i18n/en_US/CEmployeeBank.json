@@ -1,0 +1,18 @@
+{
+    "labels": {
+        "Create CEmployeeBank": "Create Employee Bank"
+    },
+    "fields": {
+        "banks": "Banks",
+        "accountNO": "Account NO.",
+        "employee": "Employee",
+        "bankHolderName": "Account Holder Name",
+        "branchName": "Branch Name",
+        "accountType": "Account Type",
+        "iFSCCode": "IFSC code"
+    },
+    "links": {
+        "banks": "Banks",
+        "employee": "Employee"
+    }
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "dependantRelation"
+                }
+            ],
+            [
+                {
+                    "name": "name"
+                },
+                {
+                    "name": "lastName"
+                }
+            ],
+            [
+                {
+                    "name": "emergencyContactNumber"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "birthDate"
+                },
+                false
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

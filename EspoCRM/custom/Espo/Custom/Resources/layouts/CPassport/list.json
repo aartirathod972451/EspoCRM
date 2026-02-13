@@ -1,0 +1,34 @@
+[
+    {
+        "name": "passportNumber",
+        "width": 16
+    },
+    {
+        "name": "nameAsPerPassport",
+        "width": 16
+    },
+    {
+        "name": "dateOfBirth",
+        "width": 16
+    },
+    {
+        "name": "placeOfBirth",
+        "width": 16
+    },
+    {
+        "name": "placeOfIssue",
+        "width": 16
+    },
+    {
+        "name": "dateOfIssue",
+        "width": 16
+    },
+    {
+        "name": "expiryDate",
+        "width": 16
+    },
+    {
+        "name": "attachments",
+        "width": 16
+    }
+]

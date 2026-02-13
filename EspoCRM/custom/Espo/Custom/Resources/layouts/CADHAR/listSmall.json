@@ -1,0 +1,22 @@
+[
+    {
+        "name": "adharEnrollementNumber",
+        "width": 20
+    },
+    {
+        "name": "adharNumber",
+        "width": 20
+    },
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "addressAsPerAadhar",
+        "width": 20
+    },
+    {
+        "name": "attachments",
+        "width": 20
+    }
+]

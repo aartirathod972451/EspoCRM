@@ -1,0 +1,14 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "country",
+        "width": 16
+    },
+    {
+        "name": "isActive",
+        "width": 16
+    }
+]

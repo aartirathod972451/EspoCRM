@@ -1,0 +1,24 @@
+{
+    "fields": {
+        "employeeName": "Employee Name",
+        "attendanceDate": "Attendance Date",
+        "status": "Status",
+        "employeeAttendance": "EmployeeAttendance"
+    },
+    "links": {
+        "employeeAttendance": "EmployeeAttendance"
+    },
+    "labels": {
+        "Create CAttendanceRecord": "Create AttendanceRecord"
+    },
+    "options": {
+        "status": {
+            "Present": "Present",
+            "Absent": "Absent",
+            "Late": "Late"
+        }
+    },
+    "dashlets": {
+        "AttendanceOverview": "Attendance Overview"
+    }
+}

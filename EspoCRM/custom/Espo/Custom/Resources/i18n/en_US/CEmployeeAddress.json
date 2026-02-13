@@ -1,0 +1,29 @@
+{
+    "labels": {
+        "Create CEmployeeAddress": "Create Employee Address"
+    },
+    "fields": {
+        "bankses": "Bankses",
+        "employee": "Employee",
+        "addressType": "Address Type",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "country": "Country"
+    },
+    "links": {
+        "bankses": "Bankses",
+        "employee": "Employee",
+        "city": "City",
+        "state": "State",
+        "country": "Country"
+    },
+    "options": {
+        "addressType": {
+            "": "Address Type",
+            "Permanent Address": "Permanent Address",
+            "Current Address": "Current Address",
+            "Other": "Other"
+        }
+    }
+}

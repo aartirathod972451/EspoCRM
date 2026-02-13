@@ -1,0 +1,23 @@
+{
+    "labels": {
+        "Create CEmployeeContact": "Create Employee Contact"
+    },
+    "fields": {
+        "contactTypes": "Contact Types",
+        "employee": "Employee",
+        "no": "Enter Details",
+        "contactTag": "Contact Tag"
+    },
+    "links": {
+        "contactTypes": "Contact Types",
+        "employee": "Employee"
+    },
+    "options": {
+        "contactTag": {
+            "": "",
+            "Work/Business": "Work/Business",
+            "Personal": "Personal",
+            "Other": "Other"
+        }
+    }
+}

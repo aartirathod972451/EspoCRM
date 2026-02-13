@@ -1,0 +1,15 @@
+[
+    {
+        "name": "contactTypes",
+        "width": 20,
+        "notSortable": true
+    },
+    {
+        "name": "contactTag",
+        "width": 20
+    },
+    {
+        "name": "no",
+        "width": 20
+    }
+]

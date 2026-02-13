@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "voterIDNumber": "Voter ID Number",
+        "nameAsPerVoterIDCard": "Name as per Voter ID Card",
+        "dateOfBirth": "Date of Birth",
+        "fathersNameAsPerVoterIDCard": "Father's name as per Voter ID Card",
+        "attachments": "Attachments",
+        "employee": "Employee"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CVoterIdCard": "Create VoterId Card"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "employee": "Employee",
+        "attachment": "Attachment",
+        "name": "Document's Name"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CEmployeeDocuments": "Create Employee Documents"
+    }
+}

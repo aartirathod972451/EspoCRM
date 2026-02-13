@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "employee": "Employee",
+        "companyName": "Company Name",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "country": "Country",
+        "state": "State",
+        "city": "City",
+        "workRole": "Work Role",
+        "companyAddress": "Company Address"
+    },
+    "links": {
+        "employee": "Employee",
+        "country": "Country",
+        "state": "State",
+        "city": "City",
+        "workRole": "Work Role"
+    },
+    "labels": {
+        "Create CEmployeePastExperience": "Create Employee Past Experience"
+    }
+}

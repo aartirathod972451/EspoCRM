@@ -1,0 +1,22 @@
+[
+    {
+        "name": "name",
+        "width": 20
+    },
+    {
+        "name": "drivingLicenseNumber",
+        "width": 20
+    },
+    {
+        "name": "dateOfIssue",
+        "width": 20
+    },
+    {
+        "name": "expiryDate",
+        "width": 20
+    },
+    {
+        "name": "attachments",
+        "width": 20
+    }
+]

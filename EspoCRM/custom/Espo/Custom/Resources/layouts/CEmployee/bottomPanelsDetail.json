@@ -1,0 +1,38 @@
+{
+    "_delimiter_": {
+        "disabled": true
+    },
+    "employeeBanks": {
+        "index": 0
+    },
+    "_tabBreak_0": {
+        "index": 1,
+        "tabBreak": true,
+        "tabLabel": "Personal Data"
+    },
+    "employeeAddresses": {
+        "index": 2
+    },
+    "employeeDependents": {
+        "index": 3
+    },
+    "_tabBreak_1": {
+        "index": 4,
+        "tabBreak": true,
+        "tabLabel": "Work Profile"
+    },
+    "employeeContacts": {
+        "index": 5
+    },
+    "_tabBreak_2": {
+        "index": 6,
+        "tabBreak": true,
+        "tabLabel": "Documents"
+    },
+    "employeeDocumentses": {
+        "index": 7
+    },
+    "employeePastExperiences": {
+        "index": 8
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "companyName"
+                }
+            ],
+            [
+                {
+                    "name": "workRole"
+                }
+            ],
+            [
+                {
+                    "name": "startDate"
+                },
+                {
+                    "name": "endDate"
+                }
+            ],
+            [
+                {
+                    "name": "companyAddress"
+                }
+            ],
+            [
+                {
+                    "name": "country"
+                },
+                {
+                    "name": "state"
+                },
+                {
+                    "name": "city"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

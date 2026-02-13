@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "adharEnrollementNumber": "Adhar Enrollement Number",
+        "adharNumber": "Aadhar Number",
+        "name": "Name as per Adhar",
+        "addressAsPerAadhar": "Address as per Aadhar",
+        "attachments": "Attachments",
+        "employee": "Employee",
+        "attachment": "Attachment"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CADHAR": "Create ADHAR"
+    }
+}

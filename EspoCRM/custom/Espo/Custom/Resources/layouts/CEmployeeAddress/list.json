@@ -1,0 +1,22 @@
+[
+    {
+        "name": "addressType",
+        "width": 16
+    },
+    {
+        "name": "address",
+        "width": 16
+    },
+    {
+        "name": "city",
+        "width": 16
+    },
+    {
+        "name": "state",
+        "width": 16
+    },
+    {
+        "name": "country",
+        "width": 16
+    }
+]

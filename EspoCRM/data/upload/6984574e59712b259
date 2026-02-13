@@ -1,0 +1,61 @@
+name,countryName,isActive
+Maharashtra,India,1
+Delhi,India,1
+Karnataka,India,1
+New York,United States,1
+California,United States,1
+Texas,United States,1
+Beijing,China,1
+Shanghai,China,1
+Guangdong,China,1
+Sao Paulo,Brazil,1
+Rio de Janeiro,Brazil,1
+Minas Gerais,Brazil,1
+Moscow,Russia,1
+Saint Petersburg,Russia,1
+Novosibirsk,Russia,1
+Tokyo,Japan,1
+Osaka,Japan,1
+Nagoya,Japan,1
+Berlin,Germany,1
+Bavaria,Germany,1
+North Rhine-Westphalia,Germany,1
+London,United Kingdom,1
+England,United Kingdom,1
+Scotland,United Kingdom,1
+Paris,France,1
+Ile-de-France,France,1
+Hauts-de-France,France,1
+Rome,Italy,1
+Lombardy,Italy,1
+Lazio,Italy,1
+Ontario,Canada,1
+Quebec,Canada,1
+British Columbia,Canada,1
+New South Wales,Australia,1
+Victoria,Australia,1
+Queensland,Australia,1
+Gauteng,South Africa,1
+Western Cape,South Africa,1
+KwaZulu-Natal,South Africa,1
+Mexico City,Mexico,1
+Jalisco,Mexico,1
+Nuevo Leon,Mexico,1
+Java,Indonesia,1
+Sumatra,Indonesia,1
+Sulawesi,Indonesia,1
+Istanbul,Turkey,1
+Ankara,Turkey,1
+Izmir,Turkey,1
+Riyadh,Saudi Arabia,1
+Makkah,Saudi Arabia,1
+Madinah,Saudi Arabia,1
+Cairo,Egypt,1
+Alexandria,Egypt,1
+Giza,Egypt,1
+Lagos,Nigeria,1
+Kano,Nigeria,1
+Lagos State,Nigeria,1
+Punjab,Pakistan,1
+Sindh,Pakistan,1
+Khyber Pakhtunkhwa,Pakistan,1

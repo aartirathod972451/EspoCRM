@@ -1,0 +1,26 @@
+[
+    {
+        "name": "employee",
+        "width": 16
+    },
+    {
+        "name": "firstClockIn",
+        "width": 16
+    },
+    {
+        "name": "lastClockOut",
+        "width": 16
+    },
+    {
+        "name": "date",
+        "width": 16
+    },
+    {
+        "name": "totalHours",
+        "width": 16
+    },
+    {
+        "name": "status",
+        "width": 16
+    }
+]

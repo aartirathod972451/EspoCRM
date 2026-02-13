@@ -1,0 +1,8 @@
+{
+    "stylesheet": "client/css/espo/mydashboard-theme.css",
+    "dashboardCellHeight": 160,
+    "dashboardCellMargin": 20,
+    "navbarHeight": 50,
+    "textColor": "#1a1a1a",
+    "fontSize": 15
+}

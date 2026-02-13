@@ -1,0 +1,34 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "addressType"
+                }
+            ],
+            [
+                {
+                    "name": "address"
+                }
+            ],
+            [
+                {
+                    "name": "country"
+                },
+                {
+                    "name": "state"
+                },
+                {
+                    "name": "city"
+                }
+            ],
+            [
+                {
+                    "name": "employee"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

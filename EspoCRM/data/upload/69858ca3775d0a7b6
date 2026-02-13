@@ -1,0 +1,62 @@
+name,stateName,isActive
+Ahemedabad,Gujarat,1
+Mumbai,Maharashtra,1
+Pune,Maharashtra,1
+Bangalore,Karnataka,1
+New York City,New York,1
+Los Angeles,California,1
+Houston,Texas,1
+Beijing,Beijing,1
+Shanghai,Shanghai,1
+Guangzhou,Guangdong,1
+Sao Paulo,Sao Paulo,1
+Rio de Janeiro,Rio de Janeiro,1
+Belo Horizonte,Minas Gerais,1
+Moscow,Moscow,1
+Saint Petersburg,Saint Petersburg,1
+Novosibirsk,Novosibirsk,1
+Tokyo,Tokyo,1
+Osaka,Osaka,1
+Nagoya,Nagoya,1
+Berlin,Berlin,1
+Munich,Bavaria,1
+Cologne,North Rhine-Westphalia,1
+London,London,1
+Manchester,England,1
+Edinburgh,Scotland,1
+Paris,Paris,1
+Lyon,Ile-de-France,1
+Marseille,Hauts-de-France,1
+Rome,Rome,1
+Milan,Lombardy,1
+Naples,Lazio,1
+Toronto,Ontario,1
+Montreal,Quebec,1
+Vancouver,British Columbia,1
+Sydney,New South Wales,1
+Melbourne,Victoria,1
+Brisbane,Queensland,1
+Johannesburg,Gauteng,1
+Cape Town,Western Cape,1
+Durban,KwaZulu-Natal,1
+Mexico City,Mexico City,1
+Guadalajara,Jalisco,1
+Monterrey,Nuevo Leon,1
+Jakarta,Java,1
+Medan,Sumatra,1
+Makassar,Sulawesi,1
+Istanbul,Istanbul,1
+Ankara,Ankara,1
+Izmir,Izmir,1
+Riyadh,Riyadh,1
+Jeddah,Makkah,1
+Medina,Madinah,1
+Cairo,Cairo,1
+Alexandria,Alexandria,1
+Giza,Giza,1
+Lagos,Lagos,1
+Kano,Kano,1
+Ibadan,Lagos State,1
+Karachi,Punjab,1
+Lahore,Sindh,1
+Faisalabad,Khyber Pakhtunkhwa,1

@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "attendance": "Attendance",
+        "parent": "Parent",
+        "actionType": "Action Type",
+        "actionTime": "Action Time",
+        "ipAddress": "IP Address",
+        "deviceInfo": "Device Info"
+    },
+    "links": {
+        "attendance": "Attendance",
+        "parent": "Parent"
+    },
+    "labels": {
+        "Create CAttendanceHistory": "Create AttendanceHistory"
+    },
+    "options": {
+        "actionType": {
+            "Clock In": "Clock In",
+            "Clock Out": "Clock Out"
+        }
+    }
+}

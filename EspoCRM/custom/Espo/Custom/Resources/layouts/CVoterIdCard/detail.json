@@ -1,0 +1,33 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "voterIDNumber"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfBirth"
+                }
+            ],
+            [
+                {
+                    "name": "nameAsPerVoterIDCard"
+                }
+            ],
+            [
+                {
+                    "name": "fathersNameAsPerVoterIDCard"
+                }
+            ],
+            [
+                {
+                    "name": "attachments"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

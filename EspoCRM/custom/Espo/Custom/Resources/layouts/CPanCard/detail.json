@@ -1,0 +1,33 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "panCardNumber"
+                }
+            ],
+            [
+                {
+                    "name": "nameAsPerPanCard"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfBirthAsPerPanCard"
+                }
+            ],
+            [
+                {
+                    "name": "middleNameAsPerPANCard"
+                }
+            ],
+            [
+                {
+                    "name": "attachments"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

@@ -1,0 +1,90 @@
+{
+    "controller": "controllers/record",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+     "recordViews": {
+        "detail": "custom:views/cemployee/record/detail"
+    },
+    "menu": {
+        "list": {
+            "buttons": [
+                "__APPEND__",
+                {
+                    "label": "Hello",
+                    "name": "helloButton",
+                    "style": "success",
+                    "handler": "custom:hello-handler",
+                    "initFunction": "initShowHello",
+                    "actionFunction": "hello"
+                },
+                {
+                    "label": "🔍 Show Role",
+                    "name": "showRoleButton",
+                    "style": "info",
+                    "handler": "custom:hello-handler",
+                    "initFunction": "initShowRole",
+                    "actionFunction": "showRole"
+                }
+            ]
+        }
+    },
+    "relationshipPanels": {
+        "user": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeeDependents": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeePastExperiences": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "workRole": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeeBanks": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeeContacts": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeeDocumentses": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "employeeAddresses": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "department": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "aDHAR": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "drivingLicense": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "voterIdCard": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "panCard": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        },
+        "attendanceRecords": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        }
+    }
+}

@@ -1,0 +1,247 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "profile"
+                },
+                {
+                    "name": "department"
+                }
+            ],
+            [
+                {
+                    "name": "name"
+                },
+                false,
+                {
+                    "name": "workRole"
+                },
+                false
+            ],
+            [
+                false,
+                {
+                    "name": "user"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "info",
+        "dynamicLogicStyled": null,
+        "tabBreak": false,
+        "hidden": false,
+        "noteText": null,
+        "customLabel": "Personal data"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "employeeBanks"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Bank Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "aDHAR"
+                }
+            ],
+            [
+                {
+                    "name": "aENumber"
+                }
+            ],
+            [
+                {
+                    "name": "aNumber"
+                }
+            ],
+            [
+                {
+                    "name": "aName"
+                }
+            ],
+            [
+                {
+                    "name": "aAddress"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": "A1",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "success",
+        "customLabel": "🔐 ADHAR Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "drivingLicense"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "dLNumber"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfIssue"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfExpiry"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": "D2",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "success",
+        "customLabel": "🔐 Driving License Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "panCard"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "panCardNumber"
+                }
+            ],
+            [
+                {
+                    "name": "pName"
+                }
+            ],
+            [
+                {
+                    "name": "pDOB"
+                }
+            ],
+            [
+                {
+                    "name": "mName"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": "P3",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "success",
+        "customLabel": "🔐 PAN Card Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "passport"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "pName"
+                }
+            ],
+            [
+                {
+                    "name": "nameAsPerPaasport"
+                }
+            ],
+            [
+                {
+                    "name": "placeOfBirth"
+                }
+            ],
+            [
+                {
+                    "name": "passportDOB"
+                }
+            ],
+            [
+                {
+                    "name": "placeOfIssue"
+                }
+            ],
+            [
+                {
+                    "name": "passportDateOfIssue"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": "P4",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Passport Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "voterIdCard"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "voterIDNumber"
+                }
+            ],
+            [
+                {
+                    "name": "nameAsPerVoterID"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfBirthAsPerVoterID"
+                }
+            ],
+            [
+                {
+                    "name": "fathersNameAsPerVoterID"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": "V5",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "🔐 Voter ID Card Details"
+    }
+]

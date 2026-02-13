@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "drivingLicenseNumber": "Driving License Number",
+        "dateOfIssue": "Date of Issue",
+        "expiryDate": "Expiry Date",
+        "attachments": "Attachments",
+        "employee": "Employee"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CDrivingLicense": "Create Driving License"
+    }
+}

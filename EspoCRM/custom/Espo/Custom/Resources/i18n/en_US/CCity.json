@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "state": "State",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "links": {
+        "state": "State",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "labels": {
+        "Create CCity": "Create City"
+    }
+}

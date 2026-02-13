@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "country": "Country",
+        "isActive": "IsActive",
+        "cities": "Cities",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "links": {
+        "country": "Country",
+        "cities": "Cities",
+        "employeePastExperiences": "Employee Past Experiences",
+        "employeeAddresses": "Employee Addresses"
+    },
+    "labels": {
+        "Create CState": "Create State"
+    }
+}

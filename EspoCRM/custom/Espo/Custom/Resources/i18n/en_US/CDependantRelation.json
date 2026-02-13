@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "employeeDependents": "Employee Dependents"
+    },
+    "links": {
+        "employeeDependents": "Employee Dependents"
+    },
+    "labels": {
+        "Create CDependantRelation": "Create Dependant Relation"
+    }
+}

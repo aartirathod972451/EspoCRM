@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "employees": "Employees",
+        "employeePastExperiences": "Employee Past Experiences"
+    },
+    "labels": {
+        "Create CWorkRole": "Create Work Role"
+    },
+    "links": {
+        "employees": "Employees",
+        "employeePastExperiences": "Employee Past Experiences"
+    }
+}

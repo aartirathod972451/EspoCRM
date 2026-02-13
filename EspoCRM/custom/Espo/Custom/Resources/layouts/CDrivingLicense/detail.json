@@ -1,0 +1,28 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "drivingLicenseNumber"
+                }
+            ],
+            [
+                {
+                    "name": "dateOfIssue"
+                }
+            ],
+            [
+                {
+                    "name": "expiryDate"
+                }
+            ],
+            [
+                {
+                    "name": "attachments"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

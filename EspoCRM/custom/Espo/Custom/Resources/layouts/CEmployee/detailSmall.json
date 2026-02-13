@@ -1,0 +1,91 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "employeeBanks"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "info",
+        "dynamicLogicStyled": null,
+        "tabBreak": true,
+        "tabLabel": "About",
+        "hidden": false,
+        "noteText": null,
+        "customLabel": "Personal Details"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "employeeAddresses"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "info",
+        "dynamicLogicStyled": null,
+        "tabBreak": true,
+        "tabLabel": "Address",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Addresses"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "employeeContacts"
+                }
+            ],
+            [
+                {
+                    "name": "employeeDependents"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": true,
+        "tabLabel": "Contact",
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Contacts"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "aDHAR"
+                }
+            ],
+            [
+                {
+                    "name": "panCard"
+                }
+            ],
+            [
+                {
+                    "name": "drivingLicense"
+                }
+            ],
+            [
+                {
+                    "name": "voterIdCard"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": true,
+        "tabLabel": null,
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Documents"
+    }
+]

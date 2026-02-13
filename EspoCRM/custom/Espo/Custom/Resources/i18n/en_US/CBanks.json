@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "isAcitve": "IsAcitve",
+        "employeeBanks": "Employee Banks",
+        "employeeAddress": "Employee Address"
+    },
+    "labels": {
+        "Create CBanks": "Create Bank"
+    },
+    "links": {
+        "employeeBanks": "Employee Banks",
+        "employeeAddress": "Employee Address"
+    }
+}

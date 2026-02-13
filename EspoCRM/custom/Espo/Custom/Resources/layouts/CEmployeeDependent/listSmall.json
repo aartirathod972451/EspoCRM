@@ -1,0 +1,22 @@
+[
+    {
+        "name": "dependantRelation",
+        "width": 20
+    },
+    {
+        "name": "name",
+        "width": 20
+    },
+    {
+        "name": "lastName",
+        "width": 20
+    },
+    {
+        "name": "emergencyContactNumber",
+        "width": 20
+    },
+    {
+        "name": "birthDate",
+        "width": 20
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "fields": {
+        "parent": "Parent",
+        "date": "Date",
+        "firstClockIn": "FirstClockIn",
+        "lastClockOut": "LastClockOut",
+        "totalHours": "TotalHours",
+        "status": "Status",
+        "notes": "Notes",
+        "attendanceHistories": "Attendance Histories",
+        "employee": "Employee"
+    },
+    "links": {
+        "parent": "Parent",
+        "attendanceHistories": "Attendance Histories",
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CAttendance": "Create Attendance"
+    },
+    "options": {
+        "status": {
+            "Present": "Present",
+            "Absent": "Absent",
+            "Half Day": "Half Day",
+            "Pending": "Pending"
+        }
+    }
+}

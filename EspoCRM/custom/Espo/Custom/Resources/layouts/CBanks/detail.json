@@ -1,0 +1,16 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "name"
+                },
+                {
+                    "name": "isAcitve"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

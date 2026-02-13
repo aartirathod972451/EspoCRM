@@ -1,0 +1,22 @@
+[2026-02-05 05:59:56] WARNING: E_WARNING: rename(data\tmp\tmp3259.tmp,data/cache/application/classmapControllers.php): Access is denied (code: 5)
+[2026-02-05 06:07:22] WARNING: E_WARNING: rename(data\tmp\tmp2A5.tmp,data/cache/application/classmapEntryPoints.php): Access is denied (code: 5)
+[2026-02-05 06:41:49] WARNING: E_WARNING: file_put_contents(data/cache/application/slim-routes.php): Failed to open stream: No such file or directory
+[2026-02-05 06:48:07] ERROR: (409) Field 'isActive' already exists in 'CDocumentType'. :: POST /Admin/fieldManager/CDocumentType
+[2026-02-05 07:33:23] CRITICAL: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it :: GET /Notification/action/notReadCount :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\PDO\MysqlPDOFactory.php(73)
+[2026-02-05 08:33:14] CRITICAL: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it :: GET /PopupNotification/action/grouped :: D:\xampp\htdocs\EspoCRM-9.2.7\application\Espo\ORM\PDO\MysqlPDOFactory.php(73)
+[2026-02-05 09:21:48] ERROR: (409) Field 'isActive' already exists in 'CDocumentType'. :: POST /Admin/fieldManager/CDocumentType
+[2026-02-05 09:57:57] WARNING: E_WARNING: file_put_contents(data/cache/application/slim-routes.php): Failed to open stream: No such file or directory
+[2026-02-05 10:01:12] WARNING: E_WARNING: rename(data\tmp\tmp1926.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-05 10:01:12] WARNING: E_WARNING: rename(data\tmp\tmp1926.tmp,data/cache/application/metadata.php): Access is denied (code: 5)
+[2026-02-05 10:30:10] WARNING: (400) Field validation failure; entityType: CEmployeeBank, field: accountNO, type: rangeInternal. :: POST /CEmployeeBank
+[2026-02-05 10:52:32] WARNING: E_WARNING: rename(data\tmp\tmp1B83.tmp,data/cache/application/routes.php): Access is denied (code: 5)
+[2026-02-05 10:57:09] WARNING: E_WARNING: rename(data\tmp\tmp5476.tmp,data/cache/application/autoload.php): Access is denied (code: 5)
+[2026-02-05 11:11:02] WARNING: E_WARNING: rename(data\tmp\tmpC0A.tmp,data/cache/application/classmapControllers.php): Access is denied (code: 5)
+[2026-02-05 11:22:12] WARNING: E_WARNING: rename(data\tmp\tmp430B.tmp,data/cache/application/routes.php): Access is denied (code: 5)
+[2026-02-05 11:22:12] WARNING: E_WARNING: rename(data\tmp\tmp430B.tmp,data/cache/application/routes.php): Access is denied (code: 5)
+[2026-02-05 11:22:12] WARNING: E_WARNING: rename(data\tmp\tmp448A.tmp,data/cache/application/classmapControllers.php): Access is denied (code: 5)
+[2026-02-05 11:35:04] WARNING: E_WARNING: rename(data\tmp\tmpBFC.tmp,data/cache/application/autoload.php): Access is denied (code: 5)
+[2026-02-05 11:39:08] WARNING: (400) Field validation failure; entityType: CEmployeeContact, field: name, type: required. :: POST /CEmployeeContact
+[2026-02-05 11:53:42] WARNING: (400) Field validation failure; entityType: CEmployeeDocuments, field: name, type: required. :: POST /CEmployeeDocuments
+[2026-02-05 13:10:09] ERROR: (409) namingFieldLinkConflict :: POST /Admin/fieldManager/CEmployeeAddress
+[2026-02-05 13:51:06] WARNING: E_WARNING: rename(data\tmp\tmp990E.tmp,data/cache/application/classmapControllers.php): Access is denied (code: 5)

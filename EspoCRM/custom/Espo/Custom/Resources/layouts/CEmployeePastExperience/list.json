@@ -1,0 +1,34 @@
+[
+    {
+        "name": "companyName",
+        "width": 16
+    },
+    {
+        "name": "startDate",
+        "width": 16
+    },
+    {
+        "name": "endDate",
+        "width": 16
+    },
+    {
+        "name": "workRole",
+        "width": 16
+    },
+    {
+        "name": "companyAddress",
+        "width": 16
+    },
+    {
+        "name": "country",
+        "width": 16
+    },
+    {
+        "name": "state",
+        "width": 16
+    },
+    {
+        "name": "city",
+        "width": 16
+    }
+]

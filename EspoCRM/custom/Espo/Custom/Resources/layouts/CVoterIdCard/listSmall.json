@@ -1,0 +1,14 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "nameAsPerVoterIDCard",
+        "width": 20
+    },
+    {
+        "name": "voterIDNumber",
+        "width": 20
+    }
+]

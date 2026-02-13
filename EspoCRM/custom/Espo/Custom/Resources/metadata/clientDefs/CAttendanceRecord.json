@@ -1,0 +1,13 @@
+{
+    "controller": "controllers/record",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+    "iconClass": "fas fa-bars-progress",
+    "relationshipPanels": {
+        "employeeAttendance": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        }
+    }
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "banks"
+                }
+            ],
+            [
+                {
+                    "name": "branchName"
+                }
+            ],
+            [
+                {
+                    "name": "bankHolderName"
+                }
+            ],
+            [
+                {
+                    "name": "accountType"
+                }
+            ],
+            [
+                {
+                    "name": "accountNO"
+                }
+            ],
+            [
+                {
+                    "name": "iFSCCode"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

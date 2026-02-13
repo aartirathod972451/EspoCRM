@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "cEmployee": "Employee",
+        "cBachelorDegree": "Bachelor Degree",
+        "cPosition": "Position",
+        "cCompany": "Company"
+    },
+    "links": {
+        "cEmployee": "Employee"
+    }
+}

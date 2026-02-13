@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "passportNumber": "Passport Number",
+        "nameAsPerPassport": "Name as per Passport",
+        "placeOfBirth": "Place of birth",
+        "dateOfBirth": "Date of Birth",
+        "placeOfIssue": "Place of Issue",
+        "dateOfIssue": "Date of Issue",
+        "expiryDate": "Expiry Date",
+        "attachments": "Attachments",
+        "employee": "Employee"
+    },
+    "links": {
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CPassport": "Create Passport"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "isActive": "IsActive",
+        "employee": "Employee"
+    },
+    "labels": {
+        "Create CDepartment": "Create Department"
+    },
+    "links": {
+        "employee": "Employee"
+    }
+}

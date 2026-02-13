@@ -1,0 +1,8 @@
+{
+    "AutoClockOut": {
+        "name": "Auto Clock Out",
+        "isSystem": true,
+        "scheduling": "0 0 * * *",
+        "job": "Custom\\Jobs\\AutoClockOut"
+    }
+}
