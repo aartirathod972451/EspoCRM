@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+
+/data/cache/
+/data/logs/
+/data/tmp/
+/data/upload/
+
+data/config.php
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

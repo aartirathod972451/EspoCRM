@@ -1,0 +1,280 @@
+[2026-02-15 08:45:48] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:45:48] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:52:51] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:52:51] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:52:54] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:52:54] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:32] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:32] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:36] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:36] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:36] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 08:53:36] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 09:00:26] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
+[2026-02-15 09:00:26] ERROR: 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 76
+Trace: #0 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(44): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(77): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(129): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Psr\Http\Server\RequestHandlerInterface@anonymous))
+#4 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\MiddlewareDispatcher.php(73): Psr\Http\Server\RequestHandlerInterface@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(209): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\vendor\slim\slim\Slim\App.php(193): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Api\Starter.php(84): Slim\App->run()
+#8 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\ApplicationRunners\Api.php(45): Espo\Core\Api\Starter->start()
+#9 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application\RunnerRunner.php(84): Espo\Core\ApplicationRunners\Api->run()
+#10 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\application\Espo\Core\Application.php(86): Espo\Core\Application\RunnerRunner->run('Espo\\Core\\Appli...', NULL)
+#11 C:\xampp\htdocs\Aarti-Git\EspoCRM\EspoCRM\public\api\v1\index.php(35): Espo\Core\Application->run('Espo\\Core\\Appli...')
+#12 {main}
+Tips: To display error details in HTTP response set "displayErrorDetails" to true in the ErrorHandler constructor.
